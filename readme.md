@@ -3,6 +3,7 @@
 - Gestionnaire de dépendances en PHP
 - On a définit le namespace de base dans composer.json
 - On a installé la librairie var-dumper `composer require --dev symfony/var-dumper`
+- [Packagist](https://packagist.org/) PHP package repository
 
 ### Classes
 
